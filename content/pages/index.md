@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Bienvenido a mi humilde blog
     content: |
-      ****
+      ***
   - section_id: about
     type: section_content
     title: About
