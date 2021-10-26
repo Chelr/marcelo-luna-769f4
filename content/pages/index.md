@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Lunarticom
-  description: The preview of the Fresh theme
+  description: 'Site '
   extra:
     - name: 'og:type'
       value: website
