@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Bienvenido a mi humilde blog
+    title: Bienvenido a mi blog
     content: |
       ***
   - section_id: about
