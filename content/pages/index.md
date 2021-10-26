@@ -29,7 +29,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Lunarticom
+  title: Lunarticom | Home Page
   description: >-
     ¡Bienvenido a mi Home Page! Aquí hablamos temas relacionados al Marketing,
     Product Design 
