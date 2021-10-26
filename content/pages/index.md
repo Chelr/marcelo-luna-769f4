@@ -5,18 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Bienvenido a mi humilde blog
-    content: |
-      > Soy un 
-      >
-      > **Community Manager**
-      >
-      >  que está sumergiéndose en el mundo del 
-      >
-      > **Product Design **
-      >
-      > con el propósito de alcanzar la meta de ser 
-      >
-      > **Product Manager.**
+    content: >
+      Soy un Community Manager que está sumergiéndose en el mundo del Product
+      Design con el propósito de alcanzar la meta de ser **Product Manager.**
   - section_id: about
     type: section_content
     title: About
