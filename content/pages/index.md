@@ -30,7 +30,9 @@ sections:
         style: button
 seo:
   title: Lunarticom
-  description: Welcome to my home page!
+  description: >-
+    ¡Bienvenido a mi Home Page! Aquí hablamos temas relacionados al Marketing,
+    Product Design 
   extra:
     - name: 'og:type'
       value: website
