@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Lunarticom
-  description: 'Site '
+  description: Welcome to my home page!
   extra:
     - name: 'og:type'
       value: website
